@@ -48,6 +48,8 @@ ECBrowser does not include the game files. You need a working PC/Steam installat
 
 ## First-time setup
 
+<img width="428" height="316" alt="image" src="https://github.com/user-attachments/assets/ae3cdb94-b8d0-4360-ac01-d2b5d1ac42fb" />
+
 On first launch, accept the usage notice and choose **EC installation**. Browse to the root of your game installation. For example:
 
 ```text
