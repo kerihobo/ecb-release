@@ -3,17 +3,30 @@
 
 ECBrowser is a Windows viewer for exploring the models, animations, scenes, maps, and media in a local PC installation of **FINAL FANTASY VII EVER CRISIS**. It lets you inspect game content in an interactive viewer and export supported assets for your own lawful use. It is an independent community tool and is not affiliated with or endorsed by the game's publisher.
 
-<img width="1920" height="1080" alt="Image Sequence_001_0000" src="https://github.com/user-attachments/assets/2f592f63-94ec-4312-b2e8-f88b9bf7c0cd" />
-<img width="1920" height="1080" alt="Image Sequence_002_0000" src="https://github.com/user-attachments/assets/6ea4e0af-2a9a-4c1a-8b95-914a7975b233" />
-<img width="1920" height="1080" alt="Image Sequence_005_0000" src="https://github.com/user-attachments/assets/867e093f-01fd-4b00-9442-f8dd334610c9" />
-<img width="1920" height="1080" alt="Image Sequence_006_0000" src="https://github.com/user-attachments/assets/59eff3eb-d6b0-4a16-a2b6-a5979b6832c9" />
-<img width="1920" height="1080" alt="Image Sequence_007_0000" src="https://github.com/user-attachments/assets/dcbd104f-5fa1-4d25-9af0-732106f08183" />
-<img width="1920" height="1080" alt="Image Sequence_010_0000" src="https://github.com/user-attachments/assets/a6f4b26a-7d3d-4553-bbbb-5f3add616470" />
-<img width="1920" height="1080" alt="Image Sequence_011_0000" src="https://github.com/user-attachments/assets/e40f30df-1f80-4428-b7d1-bf7510cdd098" />
-<img width="1920" height="1080" alt="Image Sequence_012_0000" src="https://github.com/user-attachments/assets/139651a7-43ad-4d5e-950d-ea2863d1ab60" />
-<img width="1920" height="1080" alt="Image Sequence_013_0000" src="https://github.com/user-attachments/assets/606d0c75-00fe-4ef6-9f62-537efc9bf99f" />
-<img width="1920" height="1080" alt="Image Sequence_014_0000" src="https://github.com/user-attachments/assets/948f46da-5e6a-4253-85f6-00c35f2eb1d7" />
-<img width="1920" height="1080" alt="Image Sequence_015_0000" src="https://github.com/user-attachments/assets/fb9dd228-1729-4b39-be8c-4e90494ce5f6" />
+## Gallery
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/2f592f63-94ec-4312-b2e8-f88b9bf7c0cd" alt="Screenshot 1" width="320" /></td>
+    <td><img src="https://github.com/user-attachments/assets/6ea4e0af-2a9a-4c1a-8b95-914a7975b233" alt="Screenshot 2" width="320" /></td>
+    <td><img src="https://github.com/user-attachments/assets/867e093f-01fd-4b00-9442-f8dd334610c9" alt="Screenshot 3" width="320" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/59eff3eb-d6b0-4a16-a2b6-a5979b6832c9" alt="Screenshot 4" width="320" /></td>
+    <td><img src="https://github.com/user-attachments/assets/dcbd104f-5fa1-4d25-9af0-732106f08183" alt="Screenshot 5" width="320" /></td>
+    <td><img src="https://github.com/user-attachments/assets/a6f4b26a-7d3d-4553-bbbb-5f3add616470" alt="Screenshot 6" width="320" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/e40f30df-1f80-4428-b7d1-bf7510cdd098" alt="Screenshot 7" width="320" /></td>
+    <td><img src="https://github.com/user-attachments/assets/139651a7-43ad-4d5e-950d-ea2863d1ab60" alt="Screenshot 8" width="320" /></td>
+    <td><img src="https://github.com/user-attachments/assets/606d0c75-00fe-4ef6-9f62-537efc9bf99f" alt="Screenshot 9" width="320" /></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/948f46da-5e6a-4253-85f6-00c35f2eb1d7" alt="Screenshot 10" width="320" /></td>
+    <td><img src="https://github.com/user-attachments/assets/fb9dd228-1729-4b39-be8c-4e90494ce5f6" alt="Screenshot 11" width="320" /></td>
+    <td></td>
+  </tr>
+</table>
 
 ## What you can explore
 
